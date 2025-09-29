@@ -656,18 +656,18 @@
   "buffers": [
     {
       "byteLength": 365488,
-      "uri": "scene.bin"
+      "uri": "https://raw.githubusercontent.com/13yrsCoder/chatgpt/main/scene.bin"
     }
   ],
   "images": [
     {
-      "uri": "textures/lambert1_baseColor.png"
+      "uri": "https://raw.githubusercontent.com/13yrsCoder/chatgpt/main/lambert1_baseColor.png"
     },
     {
-      "uri": "textures/lambert1_metallicRoughness.png"
+      "uri": "https://raw.githubusercontent.com/13yrsCoder/chatgpt/main/lambert1_metallicRoughness.png"
     },
     {
-      "uri": "textures/lambert1_normal.png"
+      "uri": "https://raw.githubusercontent.com/13yrsCoder/chatgpt/main/lambert1_normal.png"
     }
   ],
   "materials": [
